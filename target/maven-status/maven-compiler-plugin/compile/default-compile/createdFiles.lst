@@ -1,0 +1,11 @@
+org\turing\Main.class
+org\turing\model\Persona.class
+org\turing\gui\LoginFrame.class
+org\turing\model\Utente.class
+org\turing\config\DBConfig.class
+org\turing\storage\RubricaStorage.class
+org\turing\service\PersonaService.class
+org\turing\model\GridPersone.class
+org\turing\auth\Autenticazione.class
+org\turing\gui\RubricaGui.class
+org\turing\repository\RubricaRepository.class
