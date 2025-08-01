@@ -26,3 +26,7 @@ componente
 Junit test per testare il codice scritto in automatico
 
 link github: https://github.com/LudoForge/progettoturing
+
+NOTA: per questioni di comodità il file zip conterrà sia il file .jar, sia il codice sorgente
+per fare in modo che colui che lo prenderà in mano possa vedere entrambi. Il file jar buildato
+si chiama Rubrica-1.0-SNAPSHOT.jar
