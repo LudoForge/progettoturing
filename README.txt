@@ -24,3 +24,5 @@ Spring e le librerie Spring boot, Spring MVC e spring data JPA per poter gestire
 le classi, i comportamenti col database e le informazioni passate e gestite da componente a
 componente
 Junit test per testare il codice scritto in automatico
+
+link github: https://github.com/LudoForge/progettoturing
