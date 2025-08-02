@@ -30,3 +30,12 @@ link github: https://github.com/LudoForge/progettoturing
 NOTA: per questioni di comodità il file zip conterrà sia il file .jar, sia il codice sorgente
 per fare in modo che colui che lo prenderà in mano possa vedere entrambi. Il file jar buildato
 si chiama Rubrica-1.0-SNAPSHOT.jar
+
+
+ISTRUZIONI PER IL LANCIO DEL PROGETTO:
+Per eseguire il progetto, scaricarlo e inserirlo in una folder del computer, indicare come jdk
+java 17, lanciare una build maven clean package per controllare che giri tutto quanto, infine
+lanciare la classe main che in automatico lancerà l'applicazione creando se non esiste il
+database rubrica e inserendo la tabella persona.
+Se necessario si possono cambiare le credenziali del database in application.properties
+ricordandosi in caso di aggiornare il metodo org.turing.config.DBConfig.createDatabaseIfNotExists
